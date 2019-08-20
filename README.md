@@ -1,6 +1,6 @@
 AdColony AIR Native Extension
 ==================================
-- Modified: 2019/08/19
+- Modified: 2019/08/20
 - Android SDK Version: 3.3.11
 - iOS SDK Version: 3.3.8.1
 - Native Extension Version: 3.3.8
@@ -38,7 +38,7 @@ Users should review the [documentation](https://github.com/AdColony/AdColony-Ado
 
 ## Release Notes
 
-Change Log (2019/08/19):
+Change Log (2019/08/20):
 -----------------------------
 * Update AdColony iOS to 3.3.8.1
 * Update AdColony Android to 3.3.11
