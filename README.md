@@ -1,9 +1,9 @@
 AdColony AIR Native Extension
 ==================================
-- Modified: 2020/09/17
-- Android SDK Version: 4.2.4
-- iOS SDK Version: 4.3.1
-- Native Extension Version: 4.3.1
+- Modified: 2021/02/11
+- Android SDK Version: 4.4.1
+- iOS SDK Version: 4.5.0
+- Native Extension Version: 4.4.0
 
 ## Overview AdColony delivers zero-buffering,
 [full-screen Instant-Play™ HD video](https://www.adcolony.com/technology/instant-play/),
@@ -38,10 +38,16 @@ Users should review the [documentation](https://github.com/AdColony/AdColony-Ado
 
 ## Release Notes
 
+Change Log (2021/02/11):
+-----------------------------
+* Set minimum iOS version to 9.0 in PlatformDescriptor xml file
+* Update AdColony iOS to 4.5.0
+* Update AdColony Android to 4.4.1
+
 Change Log (2020/09/17):
 -----------------------------
-* Set minimum iOS version to 8.0 in PlatformDescriptor xml file.
-* Update AdColony Android to 4.2.4.
+* Set minimum iOS version to 8.0 in PlatformDescriptor xml file
+* Update AdColony Android to 4.2.4
 
 Change Log (2020/08/21):
 -----------------------------
